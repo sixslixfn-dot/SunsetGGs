@@ -1,0 +1,22 @@
+{
+  "seo": { "title": "Sunset Esports — Own the glow", "description": "Sunset Esports — an independent esports organization. Play with purpose. Own the glow. Est. 2026." },
+  "brand": { "name": "SUNSET", "subtitle": "ESPORTS · EST. 2026" },
+  "navigation": { "story": "Our story", "journey": "The journey", "join": "Join Sunset", "merch": "Merch", "cta": "Make your move" },
+  "hero": { "organization": "INDEPENDENT ESPORTS ORGANIZATION", "established": "EST. 2026", "headlineTop": "OWN THE", "headlineBottom": "GLOW.", "lineOne": "The sun always sets. The ones who shine never do.", "lineTwo": "We’re here to play bold, grow together, and make our moment count.", "button": "Meet Sunset", "scroll": "SCROLL TO EXPLORE", "footerLeft": "COMMUNITY FIRST", "footerCenter": "COMPETITION ALWAYS", "footerRight": "THE NEXT CHAPTER STARTS NOW" },
+  "ticker": ["PLAY WITH PURPOSE", "RISE TOGETHER", "LEAVE YOUR LIGHT"],
+  "story": { "kicker": "01 — A LITTLE ABOUT US", "index": "SUNSET / 2026", "headlineTop": "OUR TIME", "headlineBottom": "SHINE.", "lead": "Good teams are bigger than the game.", "description": "Sunset Esports is a Gaming organization focused on competitive excellence, content creation, community, and long-term growth. Join the server to connect with our community, stay updated, and be part of the journey.", "link": "See where we’re headed" },
+  "principles": [
+    { "eyebrow": "01 / PEOPLE", "headlineTop": "Better", "headlineBottom": "together.", "description": "Strong teams start with good people. Respect, trust, and community come before anything." },
+    { "eyebrow": "02 / PROGRESS", "headlineTop": "Always", "headlineBottom": "leveling up.", "description": "Every match is a chance to learn. We put the work in and bring our teammates along." },
+    { "eyebrow": "03 / PURPOSE", "headlineTop": "Leave your", "headlineBottom": "light on.", "description": "We want the next generation to see what’s possible and have a place to start." }
+  ],
+  "journey": { "kicker": "02 — THE SUNSET STORY", "headlineTop": "THE HORIZON", "headlineBottom": "OURS.", "descriptionTop": "A fresh start. A shared direction.", "descriptionBottom": "Here’s to every chapter ahead.", "footer": "ESTABLISHED 2026 · THE STORY STARTS HERE" },
+  "milestones": [
+    { "number": "01", "date": "THE FIRST SPARK", "headline": "A new light.", "description": "Sunset starts with a shared love of competition and a team ready to make its own mark." },
+    { "number": "02", "date": "THE CLIMB", "headline": "Built together.", "description": "Players, creators, and supporters come together. Every good run is a team effort." },
+    { "number": "03", "date": "THE NEXT CHAPTER", "headline": "Made to rise.", "description": "New faces. New stages. We’re just getting warmed up — the best is still ahead." }
+  ],
+  "join": { "kicker": "YOUR NEXT MOVE", "overline": "FOR THE FEARLESS. THE FOCUSED. THE NEXT.", "headlineTop": "MEET US", "headlineBottom": "SUNSET.", "description": "There’s room for people who want more from competition. If you’re hungry to improve, ready to contribute, and good to your teammates — we want to hear from you.", "button": "Start a conversation", "note": "Players, creators, and partners — come say hello." },
+  "footer": { "noteTop": "Built together.", "noteBottom": "Made to rise.", "about": "About Sunset", "journey": "Our journey", "contact": "Contact", "community": "COMMUNITY", "socials": "SOCIALS", "copyright": "© 2026 SUNSET ESPORTS. ALL RIGHTS RESERVED.", "backToTop": "BACK TO TOP", "tagline": "PLAY WITH PURPOSE." },
+  "merch": { "kicker": "SUNSET ESPORTS · DROP 001", "status": "THE FIRST COLLECTION IS IN THE WORKS", "headlineTop": "MERCH", "headlineBottom": "COMING SOON.", "description": "We’re getting the first Sunset drop ready. Nothing is available just yet—check back soon for updates.", "button": "Back to Sunset", "footer": "MADE FOR THE COMMUNITY" }
+}
